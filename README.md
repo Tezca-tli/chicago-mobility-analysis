@@ -1,5 +1,8 @@
 Análisis de Movilidad Urbana: Proyecto Zuber Chicago
+
 Análisis de movilidad urbana y factores climáticos en Chicago utilizando Python y pruebas de hipótesis.
+
+
 📊 Descripción del Proyecto
 Este proyecto analiza el panorama competitivo del mercado de transporte en Chicago para la empresa Zuber. El objetivo es identificar patrones de demanda y validar si factores externos, específicamente el clima, tienen un impacto estadísticamente significativo en la duración de los viajes.
 
